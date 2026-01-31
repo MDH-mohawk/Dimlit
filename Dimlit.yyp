@@ -23,6 +23,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"dimsand","path":"sprites/dimsand/dimsand.yy",},},
     {"id":{"name":"grub","path":"sprites/grub/grub.yy",},},
+    {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
