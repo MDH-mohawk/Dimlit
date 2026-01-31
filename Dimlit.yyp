@@ -24,6 +24,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"dimsand","path":"sprites/dimsand/dimsand.yy",},},
+    {"id":{"name":"dimsand1","path":"sprites/dimsand1/dimsand1.yy",},},
     {"id":{"name":"grey","path":"sprites/grey/grey.yy",},},
     {"id":{"name":"grub","path":"sprites/grub/grub.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
