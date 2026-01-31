@@ -35,13 +35,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"dimsand",
-    "path":"sprites/dimsand/dimsand.yy",
-  },
-  "spriteMaskId":{
-    "name":"dimsand",
-    "path":"sprites/dimsand/dimsand.yy",
-  },
+  "spriteId":null,
+  "spriteMaskId":null,
   "visible":true,
 }
