@@ -19,7 +19,9 @@
   },
   "name":"Dimlit",
   "resources":[
+    {"id":{"name":"sevenup","path":"objects/sevenup/sevenup.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"dimsand","path":"sprites/dimsand/dimsand.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
