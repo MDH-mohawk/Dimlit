@@ -19,16 +19,22 @@
   },
   "name":"Dimlit",
   "resources":[
+    {"id":{"name":"dimsand_obj","path":"objects/dimsand_obj/dimsand_obj.yy",},},
     {"id":{"name":"sevenup","path":"objects/sevenup/sevenup.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"dimsand","path":"sprites/dimsand/dimsand.yy",},},
+    {"id":{"name":"grey","path":"sprites/grey/grey.yy",},},
     {"id":{"name":"grub","path":"sprites/grub/grub.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},},
+    {"id":{"name":"greytiles","path":"tilesets/greytiles/greytiles.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
